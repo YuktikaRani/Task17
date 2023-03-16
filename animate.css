@@ -1,0 +1,81 @@
+.flex-item:hover{
+    transform: scale(1.1,1.1);
+    box-shadow: 2px,2px,6px 4px orange !important;
+    }
+    .data:hover{
+        transform: scale(1.1,1.1);
+        box-shadow: 2px 2px 6px 1px lightblue;
+    }
+    a:hover{
+        color:black;
+        border-top:none;
+    }
+    .midicon-1:hover,.midicon-2:hover{
+        transform: scale(1.2,1.2);
+        box-shadow: 2px 2px 7px 2px rgb(234, 213, 175);
+    }
+    .item:hover{
+        transform: scale(1.2,1.2);
+        margin:20px;
+        box-shadow: 2px 2px 7px 2px rgb(234, 213, 175);
+    }
+    .menu-card:hover{
+       transform: scale(1.7,1.7);
+       margin-top: -80px;
+       margin-left: -100px !important;
+       margin-bottom: 100px;
+    }
+    .menu-card:hover~ .map{
+      margin-top: 310px;
+    }
+    .customer-img img{height:460px !important;width:350px;margin-left: 180px; margin-top: 10px;}
+    .icon:hover{
+       transform:scale(1.1,1.1);
+       font-weight: bold;
+    
+    }
+    .row .profile-card:hover{
+        transform: rotateY(180deg);
+    }
+    .row .profile-card{
+        transition:transform 1500ms;
+    }
+    .dest-container img:hover{
+        transform:scale(1.1,1.1);
+        box-shadow: 2px 2px 10px 1px #FAF8ED;
+        padding-top: 20px;
+    }
+    .content-section:hover{
+    box-shadow: 2px 2px 10px 1px rgb(226, 242, 242);
+    transform:scale(1.1,1.1);
+    }
+    .signup input[type='text']:hover{
+        transform: scale(1.1,1.1);
+        border:none;
+        font-size:14px;
+        box-shadow: 2px 2px 2px 2px rgb(234, 185, 96);
+    }
+    .smallimg:hover{
+        transform:scale(1.4,1.4);
+    }
+    .customer-img:hover{
+        transform:rotateY(180deg);
+    }
+    .customer-img{
+        transition:transform 1500ms;
+    }
+    .buttons input[type='button']:hover{
+        transform: scale(1.1,1.1);
+    }
+    .imagesection .sideicon{
+        margin-top: 530px;
+        position: absolute;
+        margin-left: 1030px;
+    }
+    
+    .customer .sideicon{
+        position: absolute;
+        margin-left: 365px;
+        margin-top: 150px;
+        transform: scale(0.7,0.7);
+    }
