@@ -883,8 +883,9 @@ width:300px;color:#212121;}
     margin-left: -26px;
   }
   .row .profile-card{
-    height:410px !important;
+    height:430px !important;
   } 
+  .row .bold{align-items: center;}
   .row .firstbtn{
     width:50%;
   }
@@ -990,7 +991,7 @@ width:300px;color:#212121;}
         align-items: center;
         text-align: center;
         margin: auto; 
-        margin-top: -150px;
+        margin-top: -190px;
     }
     .secondpart .experience{
         padding:10px;
@@ -1030,7 +1031,7 @@ width:300px;color:#212121;}
         height:90px;
     }
     .row{
-       padding:40px;
+       padding:30px;
     }
    .flex-item{
     width:80%;
@@ -1069,7 +1070,7 @@ width:300px;color:#212121;}
     align-items: center;
    }
    .fourthsection .header{
-    margin:-410px auto auto auto;
+    margin:-330px auto auto auto !important;
     align-items: center;
     text-align: center;
     width:92%;
@@ -1158,14 +1159,14 @@ width:300px;color:#212121;}
     align-items: center;
   } 
   .thirdicon-1 img{
-    margin-left: -200px !important;
+    margin-left: -215px !important;
   }
   .thirdicon-2 img{
     margin-top: -100px !important;
-    margin-left: -200px !important;
+    margin-left: -215px !important;
   }
   .thirdest .destitems img{
-    margin-left:-220px;
+    margin-left:-230px !important;
     width:266px !important;
    margin-top: 230px !important;
   }
@@ -1187,11 +1188,14 @@ width:300px;color:#212121;}
     margin: auto;
     text-align: center;
     width:33%;
-    margin:2px;
+   }
+   .row .secondbtn{
+    margin-top: 10px !important;
+   margin-left:10px;
    }
    .buttons .firstbtn,.buttons .secondbtn{
     width:100px;
-    margin-left: -20px;
+    margin-left: -30px;
    }
    .buttons .firstbtn{
     margin-left: -22px !important;
